@@ -1,0 +1,15 @@
+{
+    "files.autoGuessEncoding": true,
+    "files.associations": {
+        "stm8s.h": "c",
+        "bsp_manchester.h": "c",
+        "modbusslaver.h": "c",
+        "stm8usart1.h": "c",
+        "bsp_Manchester.H": "cpp",
+        "stm8s_tim2.h": "c",
+        "bsp.h": "c",
+        "bsp_rgb.h": "c",
+        "appvalue.h": "c",
+        "updata.h": "c"
+    }
+}
